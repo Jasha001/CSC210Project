@@ -1,0 +1,20 @@
+# Burger Store Project
+
+**Submitted by:**
+- Jarin Asha
+- Ouba
+
+---
+
+How to Run:
+- Requires Java 21 and JavaFX 21 SDK
+- Run main class: com.example.fxdemo.BurgerStoreApp
+- Module path: /Users/your_name/Downloads/javafx-sdk-21.0.7/lib
+
+### Run from Terminal:
+
+```bash
+java --module-path /path/to/javafx-sdk-21.0.7/lib --add-modules javafx.controls,javafx.fxml -cp target/classes com.example.fxdemo.BurgerStoreApp
+
+
+
